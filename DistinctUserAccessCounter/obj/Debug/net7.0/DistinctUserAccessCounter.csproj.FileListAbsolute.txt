@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\bin\Debug\net7.0\DistinctUserAccessCounter.exe
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\bin\Debug\net7.0\DistinctUserAccessCounter.deps.json
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\bin\Debug\net7.0\DistinctUserAccessCounter.runtimeconfig.json
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\bin\Debug\net7.0\DistinctUserAccessCounter.dll
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\bin\Debug\net7.0\DistinctUserAccessCounter.pdb
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\obj\Debug\net7.0\DistinctUserAccessCounter.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\obj\Debug\net7.0\DistinctUserAccessCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\obj\Debug\net7.0\DistinctUserAccessCounter.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\obj\Debug\net7.0\DistinctUserAccessCounter.AssemblyInfo.cs
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\obj\Debug\net7.0\DistinctUserAccessCounter.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\obj\Debug\net7.0\DistinctUserAccessCounter.dll
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\obj\Debug\net7.0\refint\DistinctUserAccessCounter.dll
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\obj\Debug\net7.0\DistinctUserAccessCounter.pdb
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\obj\Debug\net7.0\DistinctUserAccessCounter.genruntimeconfig.cache
+C:\codigos\projetos C#\DistinctUserAccessCounter\DistinctUserAccessCounter\obj\Debug\net7.0\ref\DistinctUserAccessCounter.dll
